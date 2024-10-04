@@ -50,13 +50,7 @@ Still we recommend to run through the “Getting Started with SAP BTP Enterprise
 
 
 
-Exercise 3 – Try out the Quick Account Setup
-
-The mission “Keep the Core Clean Using SAP Build Apps with SAP S/4HANA” is a good example for a use case where SAP simplified the setup with a Quick Account Setup. So look at this mission to better understand how QAS is helping you to faster and simpler realize your use cases.
-
-
-
-Exercise 4 – Pick your next mission
+Exercise 3 – Pick your next mission
 
 After you learned how to use the SAP Discovery Center and got started with SAP BTP enterprise accounts it is time to pick your own mission.
 There are typical 2 ways which we observed how innovation is being driven:
